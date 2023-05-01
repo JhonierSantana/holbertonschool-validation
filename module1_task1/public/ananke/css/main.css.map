@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/mnt/c/Users/USER/Documents/holberton/holbertonschool-validation/module1_task1",
+	"sourceRoot": "/home/chrs/myenv/holberton-projects/holbertonschool-validation/module1_task0",
 	"sources": [
 		"stdin"
 	],
