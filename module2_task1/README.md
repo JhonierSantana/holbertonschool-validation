@@ -4,7 +4,7 @@ Module2 task2
 
 ## Prerequisites
 
-golang test version make latest version
+golang test version make latest version.
 
 ## lifecycle
 
